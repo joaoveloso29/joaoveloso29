@@ -140,4 +140,4 @@
 </tr> 
 </table>
 </div>
-Profile Views](https://komarev.com/ghpvc/?username=joaoveloso29&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+(https://komarev.com/ghpvc/?username=joaoveloso29&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
