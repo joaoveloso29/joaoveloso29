@@ -145,3 +145,8 @@
 
 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=joaoveloso29&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
 
+-----
+
+<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=joaoveloso29&theme=swift&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de joaoveloso29" width="466" height="194" loading="lazy" /></a>
+
+-----
